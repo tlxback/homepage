@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE posts [
+<!ELEMENT posts (post)+>
+<!ELEMENT post (#PCDATA)>
+<!ATTLIST post id CDATA #REQUIRED>
+<!ATTLIST post title CDATA #REQUIRED>
+]>
+<posts>
+  <post id="1" title="学习笔记"><![CDATA[<h2 style="text-align:center">数学笔记：勾股定理</h2>
+在直角三角形中，直角边的平方和等于斜边的平方：a² + b² = c²。<br />
+应用场景：测量距离、建筑设计。<br />]]></post>
+  <post id="2" title="荣誉榜"><![CDATA[<h2 style="text-align:center">“神算子”计算大赛&nbsp;
+&nbsp;&nbsp;二等奖</h2><br /><img src="post_sources/a.jpg" style="width:100%" />]]></post>
+</posts>
