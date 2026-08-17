@@ -1,0 +1,6 @@
+<!ELEMENT LeaveWords (LeaveWord*)>
+<!ELEMENT LeaveWord (#PCDATA)>
+<!ATTLIST LeaveWord post CDATA #REQUIRED>
+<!ATTLIST LeaveWord id CDATA #REQUIRED>
+<!ATTLIST LeaveWord name CDATA #REQUIRED>
+<!ATTLIST LeaveWord email CDATA #REQUIRED>
