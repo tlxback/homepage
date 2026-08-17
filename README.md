@@ -22,12 +22,14 @@
 快速开始
 ---
 1. 克隆仓库：
-   git clone https://github.com/tlxback/homepage.git
-
+```bash
+git clone https://github.com/tlxback/homepage.git
+```
 2. 使用内置 PHP 开发服务器（适用于本地快速预览）：
-   cd homepage
-   php -S localhost:8000
-
+```bash
+cd homepage
+php -S localhost:8000
+```
    然后在浏览器中打开：http://localhost:8000
 
 3. 或将代码部署到你常用的 Web 服务器（Apache / Nginx），将仓库目录作为站点根目录即可。
