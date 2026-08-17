@@ -55,7 +55,6 @@ php -S localhost:8000
 
 许可证
 ---
-## License
 MIT © [tlxback](https://github.com/tlxback)
 
 联系方式
