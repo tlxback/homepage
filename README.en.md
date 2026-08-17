@@ -2,24 +2,24 @@
 
 English · PHP + jQuery Homepage
 
-## Introduction
+Introduction
 ---
 This is a simple homepage / website template built with PHP and jQuery, suitable for personal or project static/lightweight dynamic homepages. The repository primarily uses PHP (≈90%), complemented by CSS (≈9%) and a few other files.
 
-## Features
+Features
 ---
 - PHP-based server-side rendering with a clean structure that's easy to modify
 - jQuery for optional front-end enhancements
 - Lightweight and easy to deploy, perfect for static display or integrating simple back-end logic
 
-## Tech Stack
+Tech Stack
 ---
 - Primary Language: PHP
 - Styling: CSS
 - Front-end Interaction: jQuery
 - Others: Static assets (images, fonts, etc.)
 
-## Quick Start
+Quick Start
 ---
 1. Clone the repository:
 ```bash
@@ -66,4 +66,4 @@ Contact
 Author / Maintainer: tlxback
 Repository: https://github.com/tlxback/homepage Click to visit
 
-[中文版](./README.zh.md)
+[中文版](./README.zh-CN.md)
