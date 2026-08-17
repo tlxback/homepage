@@ -62,4 +62,4 @@ MIT © [tlxback](https://github.com/tlxback)
 作者 / 维护者：tlxback  
 仓库：https://github.com/tlxback/homepage [点击跳转](https://github.com/tlxback/homepage "个人主页github仓库")
 
-[中文版](./README.md)
+[English Version](./README.en.md)
