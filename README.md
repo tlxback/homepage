@@ -55,7 +55,8 @@ php -S localhost:8000
 
 许可证
 ---
-仓库当前未指定许可证（若你希望我添加常用开源许可证如 MIT、Apache-2.0，请告诉我，我可以生成 LICENSE 文件并提交）。
+## License
+MIT © [tlxback](https://github.com/tlxback)
 
 联系方式
 ---
